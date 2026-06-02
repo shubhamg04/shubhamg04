@@ -19,7 +19,7 @@ I leverage my unique background—from designing precision automotive components
 - 🤔 **I’m looking for help with:** Optimizing time-series database queries and ML model deployment pipelines.
 - 💬 **Ask me about:** Spring Boot, RESTful API design, system architecture, or building high-performing teams.
 - 📫 **How to reach me:** [shubhamrgaikwad04@gmail.com](mailto:shubhamrgaikwad04@gmail.com)
-- ⚡ **Fun fact:** I transitioned from managing automotive component designs for Dyson and Daimler to leading a team of 10+ in hospitality, and now I architect full-stack software.
+- ⚡ **Fun fact:** I transitioned from managing automotive component designs for Dyson and Daimler to leading a team of 20+ in hospitality, and now I architect full-stack software.
 
 ---
 

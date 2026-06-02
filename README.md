@@ -48,7 +48,7 @@ I leverage my unique background—from designing precision automotive components
 ### ✦ Experience Snapshot
 
 * **Full-Stack & Software Engineering:** Built end-to-end applications including an AI-powered deepfake detector using React and PyTorch, and a secure Java/Spring Boot task management system. Gained practical enterprise experience through job simulations with HPE (RESTful web services, 95% JUnit coverage) and Skyscanner (Dropwizard microservices, Android Kotlin app).
-* **Leadership & Operations:** Managed a team of 10+ at AFD Foods and Drinks in Edinburgh, driving a 25% increase in annual sales profitability while overseeing end-to-end recruitment and performance management.
+* **Leadership & Operations:** Managed a team of 20+ at AFD Foods and Drinks in Edinburgh, driving a 25% increase in annual sales profitability while overseeing end-to-end recruitment and performance management.
 * **Cross-Functional Engineering:** Previously worked as a Design Engineer for high-profile clients like Dyson and Daimler, mastering strict compliance, precision, and cross-team collaboration. 
 
 ---
@@ -76,8 +76,8 @@ I leverage my unique background—from designing precision automotive components
 
 <div align="center">
   <!-- Note: Replace "YOUR_GITHUB_USERNAME" with your actual username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamg04&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamg04&theme=radium&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -85,7 +85,7 @@ I leverage my unique background—from designing precision automotive components
 ### ✦ Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/shubham-gaikwad-b7a464134/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shubhamrgaikwad04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 

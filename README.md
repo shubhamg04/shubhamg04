@@ -11,15 +11,15 @@ I turn complex problems into scalable, real-world systems. Coming from a backgro
 
 ### ✦ About Me & Current Focus
 
-I leverage my unique background—from designing precision automotive components to leading high-performing teams—to build resilient software[cite: 1]. 
+I leverage my unique background—from designing precision automotive components to leading high-performing teams—to build resilient software. 
 
-- 🔭 **I’m currently working on:** Full-stack applications utilizing Java 17, Spring Boot, and React[cite: 1].
-- 🌱 **I’m currently learning:** Deepening my knowledge in AWS cloud architecture (EC2, RDS) and advanced microservices deployment[cite: 1].
-- 👯 **I’m looking to collaborate on:** Open-source backend tooling, AI-driven platforms, or Java-based microservices[cite: 1].
-- 🤔 **I’m looking for help with:** Optimizing time-series database queries and ML model deployment pipelines[cite: 1].
-- 💬 **Ask me about:** Spring Boot, RESTful API design, system architecture, or building high-performing teams[cite: 1].
-- 📫 **How to reach me:** [shubhamrgaikwad04@gmail.com](mailto:shubhamrgaikwad04@gmail.com)[cite: 1]
-- ⚡ **Fun fact:** I transitioned from managing automotive component designs for Dyson and Daimler to leading a team of 10+ in hospitality, and now I architect full-stack software[cite: 1].
+- 🔭 **I’m currently working on:** Full-stack applications utilizing Java 17, Spring Boot, and React.
+- 🌱 **I’m currently learning:** Deepening my knowledge in AWS cloud architecture (EC2, RDS) and advanced microservices deployment.
+- 👯 **I’m looking to collaborate on:** Open-source backend tooling, AI-driven platforms, or Java-based microservices.
+- 🤔 **I’m looking for help with:** Optimizing time-series database queries and ML model deployment pipelines.
+- 💬 **Ask me about:** Spring Boot, RESTful API design, system architecture, or building high-performing teams.
+- 📫 **How to reach me:** [shubhamrgaikwad04@gmail.com](mailto:shubhamrgaikwad04@gmail.com)
+- ⚡ **Fun fact:** I transitioned from managing automotive component designs for Dyson and Daimler to leading a team of 10+ in hospitality, and now I architect full-stack software.
 
 ---
 
@@ -41,28 +41,28 @@ I leverage my unique background—from designing precision automotive components
 
 ### ✦ Experience Snapshot
 
-* **Full-Stack & Software Engineering:** Built end-to-end applications including an AI-powered deepfake detector using React and PyTorch, and a secure Java/Spring Boot task management system[cite: 1]. Gained practical enterprise experience through job simulations with HPE (RESTful web services, 95% JUnit coverage) and Skyscanner (Dropwizard microservices, Android Kotlin app)[cite: 1].
-* **Leadership & Operations:** Managed a team of 10+ at AFD Foods and Drinks in Edinburgh, driving a 25% increase in annual sales profitability while overseeing end-to-end recruitment and performance management[cite: 1].
-* **Cross-Functional Engineering:** Previously worked as a Design Engineer for high-profile clients like Dyson and Daimler, mastering strict compliance, precision, and cross-team collaboration[cite: 1]. 
+* **Full-Stack & Software Engineering:** Built end-to-end applications including an AI-powered deepfake detector using React and PyTorch, and a secure Java/Spring Boot task management system. Gained practical enterprise experience through job simulations with HPE (RESTful web services, 95% JUnit coverage) and Skyscanner (Dropwizard microservices, Android Kotlin app).
+* **Leadership & Operations:** Managed a team of 10+ at AFD Foods and Drinks in Edinburgh, driving a 25% increase in annual sales profitability while overseeing end-to-end recruitment and performance management.
+* **Cross-Functional Engineering:** Previously worked as a Design Engineer for high-profile clients like Dyson and Daimler, mastering strict compliance, precision, and cross-team collaboration. 
 
 ---
 
 ### ✦ Featured Projects
 
 * **[AI Deepfake Detection Platform](#)** 
-  * *What it is:* A full-stack platform processing video uploads through a multi-stage AI analysis pipeline[cite: 1].
-  * *Tech:* React 19, FastAPI, PyTorch, Hugging Face (ViT), MediaPipe[cite: 1].
-  * *Impact:* Achieves ~92% deepfake classification accuracy at 24 FPS by detecting GAN and diffusion artifacts, complete with dynamic heatmaps and real-time metadata audits[cite: 1].
+  * *What it is:* A full-stack platform processing video uploads through a multi-stage AI analysis pipeline.
+  * *Tech:* React 19, FastAPI, PyTorch, Hugging Face (ViT), MediaPipe.
+  * *Impact:* Achieves ~92% deepfake classification accuracy at 24 FPS by detecting GAN and diffusion artifacts, complete with dynamic heatmaps and real-time metadata audits.
 
 * **[TodoRails - Full Stack Task Management](#)**
-  * *What it is:* Secure task management API and responsive web application[cite: 1].
-  * *Tech:* Java 17, Spring Boot, Spring Security (JWT), MySQL, Docker[cite: 1].
-  * *Impact:* Implemented role-based authorization and achieved 85%+ code coverage using JUnit and Mockito, deploying a containerized application with highly optimized JPA/Hibernate queries[cite: 1].
+  * *What it is:* Secure task management API and responsive web application.
+  * *Tech:* Java 17, Spring Boot, Spring Security (JWT), MySQL, Docker.
+  * *Impact:* Implemented role-based authorization and achieved 85%+ code coverage using JUnit and Mockito, deploying a containerized application with highly optimized JPA/Hibernate queries.
 
 * **[Fitness Tracker & Time-Series Analytics](#)**
-  * *What it is:* A real-time data visualization dashboard for workout metrics[cite: 1].
-  * *Tech:* Spring Boot, GridDB, Apache ECharts, Docker Compose[cite: 1].
-  * *Impact:* Engineered a backend to process and retrieve time-series data efficiently, powering dynamic, real-time performance analytics[cite: 1].
+  * *What it is:* A real-time data visualization dashboard for workout metrics.
+  * *Tech:* Spring Boot, GridDB, Apache ECharts, Docker Compose.
+  * *Impact:* Engineered a backend to process and retrieve time-series data efficiently, powering dynamic, real-time performance analytics.
 
 ---
 

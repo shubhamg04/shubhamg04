@@ -75,7 +75,7 @@ I leverage my unique background—from designing precision automotive components
 ### ✦ GitHub Stats
 
 <div align="center">
-  <!-- Note: Replace "YOUR_GITHUB_USERNAME" with your actual username -->
+
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamg04&show_icons=true&theme=radium&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamg04&theme=radium&hide_border=true" width="48%" />
 </div>
